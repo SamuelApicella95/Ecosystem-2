@@ -1,3 +1,3 @@
-# Ecosystem-2
+# Ecosystem (from youtube)
 
-Work-in-progress update to the Ecosystem Simulation. (PC copy)
+Work-in-progress update to the Ecosystem Simulation.
